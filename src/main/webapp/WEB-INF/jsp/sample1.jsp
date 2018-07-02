@@ -31,7 +31,7 @@
 
 <body>
 		 <form:form id ="idForm"  method = "post" action = "/2D3D"  style="background-color:white" >
-         <h2>AR Image Video Relationship Window</h2>
+         <h2>Image Video Relationship Window</h2>
   			<br></br>	
 			
 					<div class="container">
